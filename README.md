@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Nicholas! 👋
 
-<!--
-**NicholasNM/NicholasNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 **Current Role**: System Administrator Apprentice
+- 🎯 **Goal**: To work on projects and learn as much as possible.
 
-Here are some ideas to get you started:
+- ## Skills and Experience
+### Programming Languages
+- 💻 PowerShell
+- 🐚 Bash
+- 🌐 HTML
+- 🎨 CSS
+- 🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Operating Systems
+- 🖥️ Windows Server Management
+- 🐧 Linux
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/nicholas-mathu-229aab145/)
+- [Email](mailto:mathunick@gmail.com)
