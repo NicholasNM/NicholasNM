@@ -8,13 +8,18 @@
 - 💻 PowerShell
 - 🐚 Bash
 - 🌐 HTML
-- 🎨 CSS
 - 🐍 Python
 
 ### Operating Systems
 - 🖥️ Windows Server Management
-- 🐧 Linux
+- 🖥️ Windows Client Management
+- 🐧 Linux Server Management
+- 🐧 Linux Server Management
+
+### Currently Studying
+- ☁️ Azure Cloud
+- 🌐 PHP
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nicholas-mathu-229aab145/)
-- [Email](mailto:mathunick@gmail.com)
+- [Email](mailto:nicholasnmathu@gmail.com)
